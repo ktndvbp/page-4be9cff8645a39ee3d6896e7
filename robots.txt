@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-444412ae99.bgemo.cn/sitemap.xml
